@@ -4,3 +4,7 @@ blue
 gold
 purple 
 yellow
+brown 
+bone 
+orange
+burgundy
