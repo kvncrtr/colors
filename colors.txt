@@ -8,3 +8,6 @@ brown
 bone 
 orange
 burgundy
+white
+black 
+gray 
